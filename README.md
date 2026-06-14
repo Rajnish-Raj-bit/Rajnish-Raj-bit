@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Rajnish Raj 👋
 
-<!--
-**Rajnish-Raj-bit/Rajnish-Raj-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a beginner developer from India, currently learning programming
+and exploring the world of tech.
 
-Here are some ideas to get you started:
+## 🌱 What I'm Currently Learning
+- [ ] HTML & CSS
+- [ ] Python
+- [ ] Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 My Goals for This Year
+- Build my first project
+- Contribute to open source
+- Get comfortable with coding daily
+
+## 📫 How to Reach Me
+- Email: rrajnish7618@gmail.com
+
+---
+⭐ I'm just getting started — watch this space grow!
